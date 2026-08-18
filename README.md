@@ -9,7 +9,7 @@ This repository contains the code for a basic ASP.NET Core application that demo
 
 ## ✨ Features Overview
 
-- ***Object Calisthenics**
+- **9 rules - Object Calisthenics**
 - **Best practices for Object-Oriented Programming**
 - **Real-world examples**
 - **Encapsulation**
